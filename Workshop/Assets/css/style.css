@@ -7,11 +7,11 @@ body { font-family: 'Raleway', Arial, Arial, Helvetica, sans-serif;
 }
 
 .capa {
-    background-image: url(../img/banner-bg.png);
+    background-image: url(../img/geek-wallpaper-collection-1-stugon.com-8-1024x576.png);
     background-size: cover; 
     height: 70vh;
     text-align: center;
-    padding-top: 9rem;
+    padding-top:12rem;
 
 }
 
@@ -49,11 +49,11 @@ body { font-family: 'Raleway', Arial, Arial, Helvetica, sans-serif;
 }
 
 .paragrafo1{
-    font-size:18px;
+    font-size:17px;
 }
 
 .paragrafo2{
-  font-size:18px;
+  font-size:17px;
 
 }
 
@@ -67,7 +67,7 @@ body { font-family: 'Raleway', Arial, Arial, Helvetica, sans-serif;
 .lista{
     width: 35%;
     display: inline-block;
-    margin-left: 81px;
+    margin-left: 47px;
 
 } 
 
@@ -93,8 +93,8 @@ line-height: 38px;
     background: #7E459B;
     text-align: center;
     color: white;
-    padding: 29px 21px;
-    border-radius: 10px 20px
+    padding: 19px 36px;
+    border-radius: 3px 51px
 }
 
 .veja-meu-cv{
@@ -119,4 +119,8 @@ a{
 }
 .rodape{
     font-size: 20px;
+    text-align: center;
+   
+    
+  
 }
